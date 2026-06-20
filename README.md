@@ -1,3 +1,5 @@
+Group 3 project.
+
 Password Generator GUI Project Documentation.
 
 
